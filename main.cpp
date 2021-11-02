@@ -2,7 +2,7 @@
 using namespace std;
 
 int saskaitisana(int a, int b, int b1) {
-int c = a + b + b1;
+int c = a * b * b1;
 return c;
 }
 
